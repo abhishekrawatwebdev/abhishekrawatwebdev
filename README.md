@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekrawatwebdev
 - 👀 I’m interested in ...frontend web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with others to make some good looking web pages.
 - 📫 How to reach me ...abhishekrawat9956088862@gmail.com
 
 <!---
